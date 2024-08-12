@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="icons">
-    <file>icons/e-mail.png</file>
-    <file>icons/logo.png</file>
-    <file>icons/menu-aberto.png</file>
-    <file>icons/programador.png</file>
-    <file>icons/whatsapp.png</file>
-  </qresource>
-</RCC>
