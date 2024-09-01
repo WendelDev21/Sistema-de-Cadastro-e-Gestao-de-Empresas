@@ -1,6 +1,6 @@
 # Sistema-de-Cadastro-e-Gestao-de-Empresas
 
-# Este sistema foi cria do utilizando Python, SQL e API que coleta dados da Receita Federal para inserir em uma tabela Excel.
+# Este sistema foi desenvolvido utilizando Python, SQL e API que coleta dados da Receita Federal para inserir em uma tabela Excel.
 
 # Tela de início
 ![Home](https://github.com/user-attachments/assets/64b8aa94-e401-46e5-b9fb-91ebeba35192)
